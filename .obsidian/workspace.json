@@ -11,8 +11,12 @@
             "id": "ab7189965a23e410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/GitHub Initialization.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub/GitHub Initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub/GitHub Initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init.md"
+                "file": "GitHub/GitHub Initialization.md"
               }
             }
           },
@@ -151,9 +157,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8765d05b662c1a75",
+  "active": "ab7189965a23e410",
   "lastOpenFiles": [
     "init.md",
+    "GitHub/GitHub Initialization.md",
+    "GitHub",
     "a/Untitled.md",
     "a/b.md",
     "a",

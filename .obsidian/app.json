@@ -3,7 +3,7 @@
   "showLineNumber": true,
   "spellcheck": true,
   "tabSize": 3,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "newFileLocation": "root",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,

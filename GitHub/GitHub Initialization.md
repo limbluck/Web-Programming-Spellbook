@@ -1,4 +1,4 @@
-# HOWTO initialize a repository on GitHub
+# How to initialize a repository on GitHub
 
 1. Initialize a repository
 ``` Git

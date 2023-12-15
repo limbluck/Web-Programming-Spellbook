@@ -1,6 +1,6 @@
 # Transition properties
 
-## 1. style
+## style
 
 Define a style to apply instantly
 If used with animate() will transit an element into defined style
@@ -12,7 +12,7 @@ style({
  ThreeWordsProperty: 'string value'
 })
 ```
-## 2. animate
+## animate
 
 Define a time to transit into a next state
 
@@ -29,7 +29,7 @@ animate(duration, style({property: value}))
 Important clarifications: 
 - Several animate()s can't exist together
 - Can use cubic-bezier for timing fuction 
-## 3. sequence
+## sequence
 
 Make a sequence of animations
 
@@ -40,4 +40,4 @@ sequence([
 	animate(duration)
 ])
 ```
-To make a sequence with children elements see [[Angular/Animations/Children' animations|Children' animations]]
+To make a sequence or a group with children elements see [[Angular/Animations/Children' animations|Children' animations]]

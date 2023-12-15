@@ -1,6 +1,6 @@
 # How to make a parent and a child components communicate
 
-## Parent to child
+## Input
 
 ### 1. Set the input in a child's component file:
 
@@ -38,7 +38,7 @@ The usage of a set function is similar to that of a regular variable:
 </child-element>
 ```
 
-## Child to parent
+## Output
 
 ### 1. Set the output in a child's component
 
@@ -63,4 +63,41 @@ Use event-named attribute in HTML with (event binding):
 >
 	<!-- Some text -->
 </child-element>
+```
+
+## Two-way binding
+### 1. In child Component create Input() and Output()
+``` TypeScript
+@Input()
+set getFromParent(value: any) {
+	// Some code and value confirmation
+	this.sendToParent.emit(valueConfirmed)
+	// Some code
+}
+
+@Output()
+sendToParent: EventEmitter<any> = new EventEmitter<any>();
+```
+### 2. In parent Component receive, modify and send the value
+``` TypeScript
+// Recieve
+recievedValue: any;
+recieveValue(value) {
+	this.recievedValue = value;
+}
+
+// Modify
+changeValue() {
+	this.sendValue = this.recievedValue;
+	// Some code to change sendValue
+}
+
+// Send
+sendValue: any;
+```
+###  3. In parent Template bind to the received value
+``` HTML
+<element (click)=changeValue() [class]=recievedValue>
+  // Some text
+</element>
 ```

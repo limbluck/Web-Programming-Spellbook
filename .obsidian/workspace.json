@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bc48c5da8b7dd944",
+        "id": "660ab7354be6cfbc",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd39eab54474c3a",
+            "id": "d8a139c1c8b405ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/GitHub Initialization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub/GitHub Initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub/GitHub Initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GitHub/GitHub Initialization.md"
+              }
             }
           },
           {
@@ -149,37 +157,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1dd39eab54474c3a",
+  "active": "d8a139c1c8b405ba",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "GitHub/About GitHub.md",
+    "GitHub/GitHub Initialization.md",
     "! Notes to make.md",
-    "README.md",
-    "Angular/About Angular.md",
-    "TypeScript/About TypeScript.md",
-    "Angular/Routing/Paths.md",
-    "Angular/Routing/About Routing.md",
-    "Angular/RxJs/Observable for DOM Events.md",
-    "Angular/RxJs/About RxJs.md",
-    "Angular/Routing",
-    "Angular/RxJs/Create and apply an observable for DOM Events 1.md",
-    "Angular/Renderer2/About Renderer2.md",
-    "Angular/Animations/About Animations.md",
-    "Angular/Components/About components.md",
-    "Angular/Directives/About directives.md",
-    "Angular/RxJs",
     "Angular/Animations/Children' animations.md",
-    "Angular/Animations/How to apply.md",
     "Angular/Animations/Transitions.md",
-    "Angular/Renderer2/Event listen.md",
-    "Angular/Directives/Access to an element.md",
-    "Angular/Directives/Create and apply.md",
+    "Angular/Animations/Export animation.md",
+    "Angular/Animations/Apply animation.md",
+    "Angular/Animations/About Animations.md",
+    "Angular/Animations/AnimationBuilder.md",
+    "Angular/Animations/Get current property state.md",
+    "TypeScript/Type check.md",
+    "TypeScript/About TypeScript.md",
+    "Angular/RxJs/About RxJs.md",
+    "Angular/RxJs/Subject.md",
+    "Angular/RxJs/Observable for DOM Events.md",
+    "Angular/Components/Data binding.md",
+    "Angular/Components/About components.md",
     "Angular/Components/Create and apply.md",
     "Angular/Components/Class binding.md",
-    "Angular/Renderer2",
-    "GitHub/About GitHub.md",
+    "TypeScript/Template literals (Backsticks).md",
+    "Angular/Components/Lifecycle event sequence.md",
     "Angular/Components/Style binding.md",
-    "Angular/Directives/How to use directives.md",
-    "Angular/Components/Data binding.md",
+    "Angular/Components/Data binding (two-way).md",
+    "Angular/! Notes to make.md",
+    "Angular/About Angular.md",
+    "Angular/Renderer2/Event listen.md",
+    "Untitled.canvas",
+    "Angular/Routing",
+    "Angular/RxJs",
+    "Angular/Renderer2",
     "Angular/Directives",
     "TypeScript",
     "Angular/Components",

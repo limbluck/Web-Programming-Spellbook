@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:GitHub  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 3110080
       }
+    },
+    {
+      "query": "path:ASP.NET  ",
+      "color": {
+        "a": 1,
+        "rgb": 10905572
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 12.5,
   "linkStrength": 0.760416666666667,
   "linkDistance": 103,
-  "scale": 0.45050811767578514,
+  "scale": 0.22920135941749512,
   "close": true
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "660ab7354be6cfbc",
+        "id": "dae8d071b0fd95e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8a139c1c8b405ba",
+            "id": "fba309182b9c8b90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/GitHub Initialization.md",
+                "file": "! Notes to make.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/GitHub Initialization.md",
+                "file": "! Notes to make.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/GitHub Initialization.md",
+                "file": "! Notes to make.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/GitHub Initialization.md"
+                "file": "! Notes to make.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -157,44 +159,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d8a139c1c8b405ba",
+  "active": "fba309182b9c8b90",
   "lastOpenFiles": [
-    "GitHub/About GitHub.md",
-    "GitHub/GitHub Initialization.md",
+    "README.md",
+    "dotNET/API Backend/CORS.md",
     "! Notes to make.md",
-    "Angular/Animations/Children' animations.md",
-    "Angular/Animations/Transitions.md",
-    "Angular/Animations/Export animation.md",
-    "Angular/Animations/Apply animation.md",
-    "Angular/Animations/About Animations.md",
-    "Angular/Animations/AnimationBuilder.md",
-    "Angular/Animations/Get current property state.md",
-    "TypeScript/Type check.md",
-    "TypeScript/About TypeScript.md",
-    "Angular/RxJs/About RxJs.md",
-    "Angular/RxJs/Subject.md",
-    "Angular/RxJs/Observable for DOM Events.md",
-    "Angular/Components/Data binding.md",
-    "Angular/Components/About components.md",
-    "Angular/Components/Create and apply.md",
-    "Angular/Components/Class binding.md",
-    "TypeScript/Template literals (Backsticks).md",
-    "Angular/Components/Lifecycle event sequence.md",
-    "Angular/Components/Style binding.md",
-    "Angular/Components/Data binding (two-way).md",
-    "Angular/! Notes to make.md",
-    "Angular/About Angular.md",
-    "Angular/Renderer2/Event listen.md",
+    "dotNET/Dapper.md",
+    "MS SQL Server/Value from another table.md",
+    "TMP Get image.md",
+    "MS SQL Server/Filestream/Data operations.md",
+    "MS SQL Server/Filestream/Enable and configure.md",
+    "MS SQL Server/Filestream/Create a table.md",
+    "MS SQL Server/Constraints.md",
+    "MS SQL Server/Filestream/Create a database.md",
+    "MS SQL Server/Basic commands.md",
+    "MS SQL Server/Data types.md",
+    "dotNET/dotNET Framework Basics/try-catch.md",
+    "[GitHub.md",
+    "Structure.md",
+    "Create.md",
+    "MS SQL Server/Filtering.md",
+    "dotNET/API Backend/Service responce.md",
+    "dotNET/API Backend/Service.md",
+    "dotNET/API Backend/Controller.md",
+    "dotNET/API Backend/Create new API.md",
+    "MS SQL Server/About MS SQL Server.md",
+    "MS SQL Server/Functions.md",
+    "dotNET/AutoMapper.md",
+    "dotNET/API Backend/About ASP.NET API Backend.md",
+    "MS SQL Server/Filestream",
+    "dotNET/Dapper",
+    "dotNET/dotNET Framework Basics",
+    "MS SQL Server",
+    "ASP.NET/Untitled",
+    "Angular/API",
+    "dotNET/API Backend",
+    "dotNET",
+    "Git",
     "Untitled.canvas",
-    "Angular/Routing",
-    "Angular/RxJs",
-    "Angular/Renderer2",
-    "Angular/Directives",
-    "TypeScript",
-    "Angular/Components",
-    "HTML-CSS",
-    "Angular/Animations",
-    "Angular",
-    "GitHub"
+    "Angular/Routing"
   ]
 }
